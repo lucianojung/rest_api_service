@@ -19,11 +19,6 @@ public class RestApiServerBeApplication {
 		app.run(args);
 	}
 
-	@RequestMapping(value = "/firstapp")
-	public String firstApp(){
-		return "My Google Service is working.";
-	}
-
 	@Component
 	public class ServerPortCustomizer
 			implements WebServerFactoryCustomizer<ConfigurableWebServerFactory> {
