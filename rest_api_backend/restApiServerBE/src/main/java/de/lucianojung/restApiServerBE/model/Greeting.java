@@ -1,4 +1,4 @@
-package de.lucianojung.restApiServerBE;
+package de.lucianojung.restApiServerBE.model;
 
 public class Greeting {
 
