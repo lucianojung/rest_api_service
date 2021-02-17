@@ -16,7 +16,7 @@ public class ConnectionController {
             new Connection("Personal Homepage", "https://lucianojung.de", ConnectionCategoryEnum.WEBSITE),
             new Connection("LinkedIn", "https://linkedin.lucianojung.de/", ConnectionCategoryEnum.SOCIALMEDIA),
             new Connection("XING", "https://xing.lucianojung.de/", ConnectionCategoryEnum.SOCIALMEDIA),
-            new Connection("Github", "https://github.com/lucianojung", ConnectionCategoryEnum.PROJECT),
+            new Connection("Github", "https://github.com/lucianojung", ConnectionCategoryEnum.SOCIALMEDIA),
             new Connection("Random Generator App Website", "https://random-app.lucianojung.de/", ConnectionCategoryEnum.WEBSITE),
             new Connection("Api Website", "https://api.lucianojung.de", ConnectionCategoryEnum.WEBSITE),
             new Connection("Random Generator App", "https://play.google.com/store/apps/details?id=de.lucianojung.random_chooser", ConnectionCategoryEnum.PROJECT),
