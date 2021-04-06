@@ -6,6 +6,7 @@ start it in Background: "nohup mvn spring-boot:run > my.log 2>&1 &" + "echo $! >
 
 
 todo:
+- deploy to heroku
 - install flutter on raspi
 - build flutter frontend
 - copy to var/www/html/
